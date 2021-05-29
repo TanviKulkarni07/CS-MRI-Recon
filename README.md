@@ -1,11 +1,15 @@
 # CS-MRI-Recon
 
 ### Description
-Comparing outputs with state of the art  [here](https://github.com/MLI-lab/ConvDecoder). <br> 
+This project was done as a part of EE5180 Machine Learning Course(Spring 2021) at IITM.
 
+Perform Compressed Sensing Reconstruction and comparing outputs with [state of the art](https://github.com/MLI-lab/ConvDecoder). <br> 
+
+### OS Requirements
 The code works on Ubuntu 20.04.1 and Windows 10
 (BART was tried on Ubuntu 20.04.1)
-### Setup and requirements
+
+### Setup and python dependencies
     apt-get update
     apt-get install python3.6     # --> or any other system-specific command for installing python3 on your system.
 	pip install jupyter
@@ -28,3 +32,9 @@ Download the .nii file from https://drive.google.com/file/d/1qQPLU0bu08WvK0bCoL6
 
 ### Running Files
 Place any file in the root folder of the cloned repo and execute
+
+### References
+https://arxiv.org/abs/2007.02471
+https://arxiv.org/abs/1810.03982
+https://dmitryulyanov.github.io/deep_image_prior
+https://github.com/facebookresearch/fastMRI/tree/master/fastmri_examples/cs
