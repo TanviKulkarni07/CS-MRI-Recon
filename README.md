@@ -23,7 +23,7 @@ The code works on Ubuntu 20.04.1 and Windows 10
 	pip install pytorch-lightning==0.7.5
 	pip install test-tube
 	pip install Pillow
-Clone from https://github.com/MLI-lab/ConvDecoder for utility functions
+Clone from [parent repo] (https://github.com/MLI-lab/ConvDecoder). <br> for utility functions
 
 ### Dataset
 all files: https://drive.google.com/drive/folders/14mrihZkUoasr1a4RGqqZ0jcVIkcYNEwr?usp=sharing
