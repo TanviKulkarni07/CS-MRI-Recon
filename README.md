@@ -1,7 +1,7 @@
 # CS-MRI-Recon
 
 ### Description
-Comparing outputs with state of the art https://github.com/MLI-lab/ConvDecoder
+Comparing outputs with state of the art  [here](https://github.com/MLI-lab/ConvDecoder). <br> 
 
 The code works on Ubuntu 20.04.1 and Windows 10
 (BART was tried on Ubuntu 20.04.1)
